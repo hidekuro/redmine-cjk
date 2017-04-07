@@ -1,0 +1,3 @@
+redmine/plugins/*
+redmine/themes/*
+!.gitkeep
